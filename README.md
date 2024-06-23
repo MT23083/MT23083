@@ -36,13 +36,15 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 
 ## Publications
 
-### 1. **"AVR: Synergizing Foundation Models for Audio-Visual Humor Detection" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interspeech 2024**
+### 1. **"AVR: Synergizing Foundation Models for Audio-Visual Humor Detection"**
 
+  - **Conference Name**: Interspeech 2024
   - **Authors**: Sarthak Sharma*, Orchid Chetia Phukan*, Drishti Singh, Arun Balaji Buduru, Rajesh Sharma
+  - **Repository**: [Arxiv Link](https://arxiv.org/abs/2406.10448v1)
 
 ## Projects
 
-### 1. **Multimodal Humor Detection (Accepted in Interspeech 2024 Demo)**
+### 1. **Multimodal Humor Detection (Accepted in Interspeech 2024 Demonstration Track)**
 
 - **Description**: 
   - Ensembles the power of Audio Visual Data to generate humorous notions for the machine to understand.
@@ -66,14 +68,14 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
   - Implemented Linux commands such as cd, mv, rm, cp, and ls in C++.
   - Added multithreading for recursive options, measured performance improvements.
 - **Technologies**: C/C++
-- **Repository**: [GitHub Link](https://github.com/MT23083)
+- **Repository**: [GitHub Link](https://github.com/MT23083/Linux_Shell)
 
 ### 4. **Real Estate Web App**
 - **Description**:
   - Created a web app to organize real estate information for housing properties.
   - Implemented authentication and encryption mechanisms.
 - **Technologies**: Django, JavaScript, Python
-- **Repository**: [GitHub Link](https://github.com/MT23083)
+- **Repository**: [GitHub Link](https://github.com/MT23083/kyc_integrated_webapp)
 
 ### 5. **Resume Parser**
 - **Description**:
@@ -81,7 +83,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
   - Utilized BERT for embedding extraction and custom models for entity identification.
   - Deployed using Flask for functional information extraction.
 - **Technologies**: Python, Information Extraction, BERT, Flask
-- **Repository**: [GitHub Link](https://github.com/MT23083)
+- **Repository**: [GitHub Link](https://github.com/MT23083/Parser)
 
 ### 6. **Model Fine Tuning for Text Summarization**
 - **Description**:
@@ -89,7 +91,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
   - Used Amazon Fine Food Reviews Dataset for context-based fine-tuning.
   - Achieved significant results with T5 Model for shorter reviews.
 - **Technologies**: TensorFlow, PyTorch, Python, T5 Model
-- **Repository**: [GitHub Link](https://github.com/MT23083)
+- **Repository**: [GitHub Link](https://github.com/MT23083/Text_Summarizer)
 
 ---
 
