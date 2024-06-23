@@ -85,12 +85,12 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 - **Technologies**: Python, Information Extraction, BERT, Flask
 - **Repository**: [GitHub Link](https://github.com/MT23083/Parser)
 
-### 6. **Model Fine Tuning for Text Summarization**
+### 6. **LLM Fine Tuning for Text Summarization**
 - **Description**:
   - Fine-tuned GPT2 and T5 pre-trained models for text summarization.
   - Used Amazon Fine Food Reviews Dataset for context-based fine-tuning.
   - Achieved significant results with T5 Model for shorter reviews.
-- **Technologies**: TensorFlow, PyTorch, Python, T5 Model
+- **Technologies**: TensorFlow, PyTorch, Python, T5 Model, GPT2 Model
 - **Repository**: [GitHub Link](https://github.com/MT23083/Text_Summarizer)
 
 ---
