@@ -4,7 +4,7 @@
 
 ## Profile
 
-Welcome to my GitHub profile! I am Sarthak Sharma, a dedicated software developer with a keen interest in Android development, machine learning, and contributing to open-source projects. I am passionate about leveraging technology to innovate and solve real-world problems. My journey in the tech industry has been shaped by hands-on experience in developing diverse projects that span from multimodal data analysis to web application development and machine learning model optimization.
+Welcome to my GitHub profile! I am Sarthak Sharma, a dedicated software developer with a keen interest in Android development, machine learning, and contributing to open-source projects. Currently, I am pursuing my Master's in Computer Science and Engineering at IIIT Delhi. I am passionate about leveraging technology to innovate and solve real-world problems. My journey in the tech world has been shaped by hands-on experience in developing diverse projects that span from multimodal data analysis to Android application development and machine learning model optimization.
 
 ## Contact
 
@@ -19,7 +19,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 - **Name**: Sarthak Sharma
 - **Location**: [New Delhi, India]
 - **Email**: sarthak23083@iiitd.ac.in
-- **Education**: MTech. CSE, Indraprastha Institute of Information Technology, Delhi
+- **Education**: MTech. CSE, Indraprastha Institute of Information Technology, Delhi (2023 - 2025)
 
 ## Skills
 
