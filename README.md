@@ -75,7 +75,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
   - Created a web app to organize real estate information for housing properties.
   - Implemented authentication and encryption mechanisms.
 - **Technologies**: Django, JavaScript, Python
-- **Repository**: [GitHub Link](https://github.com/MT23083/kyc_integrated_webapp)
+- **Repository**: [GitHub Link](https://github.com/MT23083/RealEstateApp)
 
 ### 5. **Resume Parser**
 - **Description**:
