@@ -70,14 +70,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 - **Technologies**: C/C++
 - **Repository**: [GitHub Link](https://github.com/MT23083/Linux_Shell)
 
-### 4. **Real Estate Web App**
-- **Description**:
-  - Created a web app to organize real estate information for housing properties.
-  - Implemented authentication and encryption mechanisms.
-- **Technologies**: Django, JavaScript, Python
-- **Repository**: [GitHub Link](https://github.com/MT23083/RealEstateApp)
-
-### 5. **Resume Parser**
+### 4. **Resume Parser**
 - **Description**:
   - Developed a Resume Parser to extract key entities from resumes.
   - Utilized BERT for embedding extraction and custom models for entity identification.
@@ -85,7 +78,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 - **Technologies**: Python, Information Extraction, BERT, Flask
 - **Repository**: [GitHub Link](https://github.com/MT23083/Parser)
 
-### 6. **LLM Fine Tuning for Text Summarization**
+### 5. **LLM Fine Tuning for Text Summarization**
 - **Description**:
   - Fine-tuned GPT2 and T5 pre-trained models for text summarization.
   - Used Amazon Fine Food Reviews Dataset for context-based fine-tuning.
