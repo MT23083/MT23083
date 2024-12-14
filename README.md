@@ -53,9 +53,19 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
   - LanguageBind model used as an alternate approach but less accurate than VideoMAE and AST models.
   - Experimented with several CNN and LSTM models, deployed the most accurate one over a Tkinter application.
 - **Technologies**: TensorFlow, PyTorch, Tkinter
-- **Repository**: [GitHub Link](https://github.com/MT23083/MultiModal_AVR)
+- **Repository**: [GitHub Link](https://github.com/MT23083/Estimated_Time_Of_Arrival_Prediction)
 
-### 2. **TravelVista: Personalized Travel Planner**
+### 2. **Estimated Time of Arrival Prediction using Doordash Dataset**
+
+- **Description**: 
+  - Leverages the power of data-driven insights to predict accurate delivery ETA (Estimated Time of Arrival) using DoorDash dataset present on Kaggle.
+  - Utilized the attributes already present in the dataset and applied feature engineering to get novel attributes to train the model instead of feeding the initial data.
+  - Experimented with various Machine Learning techniques such as XGBoost, Random Forest Regressor, LightGBM, and among them XGBoost tends to be better among these regressors.
+  - Metrics used were Mean Absolute Error(MAE), Mean Squared Error(MSE)
+- **Technologies**: PyTorch, sklearn
+- **Repository**: [GitHub Link](https://github.com/MT23083/Estimated_Time_Of_Arrival_Prediction)
+
+### 3. **TravelVista: Personalized Travel Planner**
 - **Description**:
   - Developed a personalized travel web application for tailored travel plans.
   - Augmented City and Hotel Datasets for better model comprehension.
@@ -63,14 +73,14 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 - **Technologies**: Python, Information Retrieval, LLM, NodeJS
 - **Repository**: [GitHub Link](https://github.com/MT23083/TravelVista)
 
-### 3. **Linux Shell in C/C++**
+### 4. **Linux Shell in C/C++**
 - **Description**:
   - Implemented Linux commands such as cd, mv, rm, cp, and ls in C++.
   - Added multithreading for recursive options, measured performance improvements.
 - **Technologies**: C/C++
 - **Repository**: [GitHub Link](https://github.com/MT23083/Linux_Shell)
 
-### 4. **Resume Parser**
+### 5. **Resume Parser**
 - **Description**:
   - Developed a Resume Parser to extract key entities from resumes.
   - Utilized BERT for embedding extraction and custom models for entity identification.
@@ -78,7 +88,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 - **Technologies**: Python, Information Extraction, BERT, Flask
 - **Repository**: [GitHub Link](https://github.com/MT23083/Parser)
 
-### 5. **LLM Fine Tuning for Text Summarization**
+### 6. **LLM Fine Tuning for Text Summarization**
 - **Description**:
   - Fine-tuned GPT2 and T5 pre-trained models for text summarization.
   - Used Amazon Fine Food Reviews Dataset for context-based fine-tuning.
