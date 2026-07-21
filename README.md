@@ -28,19 +28,24 @@ Always exploring new technologies in artificial intelligence, distributed system
 
 ### Featured work
 
-<div align="center">
-
-<a href="https://github.com/MT23083/SAVYA"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-savya.png?v=5" alt="SAVYA" width="360" /></a>
-&nbsp;
-<a href="https://github.com/MT23083/aethon"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-aethon.png?v=5" alt="Aethon" width="360" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/MT23083/TravelVista"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-travelvista.png?v=5" alt="TravelVista" width="360" /></a>
-&nbsp;
-<a href="https://github.com/MT23083/Multimodal_AVR"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-avr.png?v=5" alt="AVR" width="360" /></a>
-
-</div>
+<table align="center" width="760" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MT23083/SAVYA"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-savya.png?v=6" alt="SAVYA" width="370" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MT23083/aethon"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-aethon.png?v=6" alt="Aethon Intelligence" width="370" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MT23083/TravelVista"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-travelvista.png?v=6" alt="TravelVista" width="370" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MT23083/Multimodal_AVR"><img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-avr.png?v=6" alt="AVR" width="370" /></a>
+    </td>
+  </tr>
+</table>
 
 ### Selected earlier work
 
