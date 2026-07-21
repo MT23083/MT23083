@@ -37,52 +37,48 @@ Always exploring new technologies in artificial intelligence, distributed system
 ### Featured work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### SAVYA
-*Personal wealth OS*
-
-Non-custodial wealth product with net-worth registry, encrypted vault, quiet ledger UX, Google auth, India data residency, and Play Store release tooling.
-
-Flutter · Dart · Supabase · AES-GCM
-
-</td>
-<td width="50%" valign="top">
-
-#### Aethon
-*Enterprise AI cost platform*
-
-Intelligent model routing, waste detection, budget governance, and analytics designed to reduce AI spend by 20 to 60% without slowing product teams.
-
-Next.js · TypeScript · FastAPI · ClickHouse
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### HireEdge AI
-*Hiring intelligence*
-
-AI-assisted hiring workflows for screening signal, structured evaluation, and recruiter-facing tooling built for speed and clarity.
-
-JavaScript · Python · LLM workflows
-
-</td>
-<td width="50%" valign="top">
-
-#### AVR
-*Audio-visual humor detection · Interspeech 2024*
-
-Foundation-model fusion (AST and VideoMAE) for multimodal humor understanding. Demonstration track at Interspeech 2024.
-
-[Paper](https://arxiv.org/abs/2406.10448v1) &nbsp;|&nbsp; [Code](https://github.com/MT23083/Multimodal_AVR)
-
-PyTorch · TensorFlow · Multimodal ML
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MT23083/SAVYA">
+        <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-savya.png" alt="SAVYA" width="100%" />
+      </a>
+      <p>
+        <a href="https://github.com/MT23083/SAVYA"><b>SAVYA</b></a><br/>
+        Personal wealth OS for India-first, non-custodial money clarity.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MT23083/aethon">
+        <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-aethon.png" alt="Aethon" width="100%" />
+      </a>
+      <p>
+        <a href="https://github.com/MT23083/aethon"><b>Aethon</b></a><br/>
+        Enterprise AI cost platform for routing, governance, and spend control.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MT23083/TravelVista">
+        <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-travelvista.png" alt="TravelVista" width="100%" />
+      </a>
+      <p>
+        <a href="https://github.com/MT23083/TravelVista"><b>TravelVista</b></a><br/>
+        RAG powered travel planning with LLM itinerary generation.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MT23083/Multimodal_AVR">
+        <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/card-avr.png" alt="AVR" width="100%" />
+      </a>
+      <p>
+        <a href="https://github.com/MT23083/Multimodal_AVR"><b>AVR</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://arxiv.org/abs/2406.10448v1">Paper</a><br/>
+        Multimodal humor detection research at Interspeech 2024.
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -92,8 +88,6 @@ PyTorch · TensorFlow · Multimodal ML
 ### Selected earlier work
 
 <p align="center">
-  <a href="https://github.com/MT23083/TravelVista"><img src="https://img.shields.io/badge/TravelVista-RAG%20travel%20planner-0B1210?style=flat-square&labelColor=13201A&color=2D6A4F" alt="TravelVista" /></a>
-  &nbsp;
   <a href="https://github.com/MT23083/Estimated_Time_Of_Arrival_Prediction"><img src="https://img.shields.io/badge/ETA%20Prediction-XGBoost%20%2F%20feature%20eng-0B1210?style=flat-square&labelColor=13201A&color=2D6A4F" alt="ETA" /></a>
   &nbsp;
   <a href="https://github.com/MT23083/Parser"><img src="https://img.shields.io/badge/Resume%20Parser-BERT%20%2F%20Flask-0B1210?style=flat-square&labelColor=13201A&color=2D6A4F" alt="Parser" /></a>
