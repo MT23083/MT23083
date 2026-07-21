@@ -130,18 +130,16 @@ Product       Fintech UX · encryption / vault design · RLS · DPDP-aware syste
 
 ---
 
-### Activity
+### Snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MT23083&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MT23083&theme=github_dark" alt="Repos per language" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MT23083&theme=github_dark" alt="Most used languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MT23083&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=MT23083&theme=dark&hide_border=true&background=0B1210&ring=C4A574&fire=2D6A4F&currStreakLabel=C4A574" alt="GitHub streak" />
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MT23083&bg_color=0b1210&color=c4a574&line=2d6a4f&point=c4a574&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/highlights.svg" alt="Selected highlights" width="900" />
+  <br/><br/>
+  <a href="https://github.com/MT23083?tab=followers"><img src="https://img.shields.io/github/followers/MT23083?style=flat-square&label=Followers&labelColor=0B1210&color=2D6A4F" alt="Followers" /></a>
+  &nbsp;
+  <a href="https://github.com/MT23083?tab=repositories"><img src="https://img.shields.io/badge/Public%20repos-15-0B1210?style=flat-square&labelColor=0B1210&color=C4A574" alt="Public repos" /></a>
+  &nbsp;
+  <a href="https://arxiv.org/abs/2406.10448v1"><img src="https://img.shields.io/badge/Research-Interspeech%202024-0B1210?style=flat-square&labelColor=0B1210&color=2D6A4F" alt="Research" /></a>
 </div>
 
 <br/>

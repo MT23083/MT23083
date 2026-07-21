@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Selected highlights">
+  <rect width="900" height="220" rx="12" fill="#0B1210"/>
+  <text x="36" y="48" fill="#C4A574" font-family="Georgia, serif" font-size="14" letter-spacing="3">SELECTED HIGHLIGHTS</text>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="36" y="72" width="250" height="110" rx="8" fill="#13201A" stroke="#2D6A4F" stroke-opacity="0.45"/>
+    <text x="56" y="108" fill="#F4F1EA" font-size="18" font-weight="600">Interspeech 2024</text>
+    <text x="56" y="136" fill="#B8C5BC" font-size="13">AVR multimodal research</text>
+    <text x="56" y="158" fill="#7A8F82" font-size="12">Paper published · demo track</text>
+
+    <rect x="310" y="72" width="250" height="110" rx="8" fill="#13201A" stroke="#2D6A4F" stroke-opacity="0.45"/>
+    <text x="330" y="108" fill="#F4F1EA" font-size="18" font-weight="600">SAVYA</text>
+    <text x="330" y="136" fill="#B8C5BC" font-size="13">Personal wealth OS</text>
+    <text x="330" y="158" fill="#7A8F82" font-size="12">Flutter · India residency</text>
+
+    <rect x="584" y="72" width="280" height="110" rx="8" fill="#13201A" stroke="#2D6A4F" stroke-opacity="0.45"/>
+    <text x="604" y="108" fill="#F4F1EA" font-size="18" font-weight="600">Aethon</text>
+    <text x="604" y="136" fill="#B8C5BC" font-size="13">Enterprise AI cost control</text>
+    <text x="604" y="158" fill="#7A8F82" font-size="12">Routing · spend governance</text>
+  </g>
+</svg>
