@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/banner.svg" alt="Sarthak Sharma — Product Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/banner.png" alt="Sarthak Sharma — Product Engineer" width="100%" />
 
   <br/>
 
@@ -133,7 +133,7 @@ Product       Fintech UX · encryption / vault design · RLS · DPDP-aware syste
 ### Snapshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/highlights.svg" alt="Selected highlights" width="900" />
+  <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/highlights.png" alt="Selected highlights" width="900" />
   <br/><br/>
   <a href="https://github.com/MT23083?tab=followers"><img src="https://img.shields.io/github/followers/MT23083?style=flat-square&label=Followers&labelColor=0B1210&color=2D6A4F" alt="Followers" /></a>
   &nbsp;
