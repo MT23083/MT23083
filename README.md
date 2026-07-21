@@ -79,38 +79,14 @@ AI-assisted hiring workflows — screening signal, structured evaluation, and re
 </td>
 <td width="50%" valign="top">
 
-#### DesiHATH
-**Product platform · TypeScript**
+#### AVR — Audio-Visual Humor Detection
+**Research · Interspeech 2024 · Multimodal ML**
 
-Full-stack TypeScript product work spanning modern web architecture, auth, and operational UX for a regional product surface.
+Foundation-model fusion (AST + VideoMAE) for audio-visual humor understanding. Demonstration track at Interspeech 2024.
 
-*Private*
+[Paper (arXiv)](https://arxiv.org/abs/2406.10448v1) · [Code](https://github.com/MT23083/Multimodal_AVR)
 
-`TypeScript` `Web` `Product engineering`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### Research
-
-<table>
-<tr>
-<td width="72" valign="top" align="center">
-<img src="https://img.shields.io/badge/Interspeech-2024-1B4332?style=for-the-badge&labelColor=0B1210&color=C4A574" alt="Interspeech 2024" />
-</td>
-<td valign="top">
-
-**AVR: Synergizing Foundation Models for Audio-Visual Humor Detection**  
-Sarthak Sharma*, Orchid Chetia Phukan*, Drishti Singh, Arun Balaji Buduru, Rajesh Sharma  
-
-Foundation-model fusion (AST + VideoMAE) for multimodal humor understanding — demonstration track at Interspeech 2024.
-
-[Paper on arXiv](https://arxiv.org/abs/2406.10448v1) · [Code](https://github.com/MT23083/Multimodal_AVR)
+`PyTorch` `TensorFlow` `AST` `VideoMAE` `Multimodal`
 
 </td>
 </tr>
