@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Sarthak Sharma — Product Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/MT23083/MT23083/main/assets/banner.svg" alt="Sarthak Sharma — Product Engineer" width="100%" />
 
   <br/>
 
@@ -133,12 +133,15 @@ Product       Fintech UX · encryption / vault design · RLS · DPDP-aware syste
 ### Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MT23083&show_icons=true&theme=transparent&hide_border=true&title_color=C4A574&text_color=B8C5BC&icon_color=2D6A4F&ring_color=C4A574&bg_color=00000000" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT23083&layout=compact&theme=transparent&hide_border=true&title_color=C4A574&text_color=B8C5BC&bg_color=00000000" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MT23083&theme=dark&hide_border=true&background=00000000&ring=C4A574&fire=2D6A4F&currStreakLabel=C4A574" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MT23083&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MT23083&theme=github_dark" alt="Repos per language" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MT23083&theme=github_dark" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MT23083&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=MT23083&theme=dark&hide_border=true&background=0B1210&ring=C4A574&fire=2D6A4F&currStreakLabel=C4A574" alt="GitHub streak" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MT23083&bg_color=0b1210&color=c4a574&line=2d6a4f&point=c4a574&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
 <br/>
