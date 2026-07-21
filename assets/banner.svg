@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Sarthak Sharma  Product Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1210"/>
+      <stop offset="55%" stop-color="#13201A"/>
+      <stop offset="100%" stop-color="#1A2E24"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C4A574" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C4A574" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#C4A574" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#2D6A4F" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2D6A4F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.06" stroke="#E8E4D9" stroke-width="1">
+    <path d="M0 72 H1200 M0 144 H1200 M0 216 H1200 M0 288 H1200"/>
+    <path d="M200 0 V360 M400 0 V360 M600 0 V360 M800 0 V360 M1000 0 V360"/>
+  </g>
+
+  <text x="80" y="108" fill="#C4A574" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6">
+    PRODUCT ENGINEER · FINTECH · AI SYSTEMS
+  </text>
+
+  <text x="80" y="178" fill="#F4F1EA" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">
+    Sarthak Sharma
+  </text>
+
+  <rect x="80" y="208" width="220" height="2" fill="url(#line)">
+    <animate attributeName="width" values="40;220;40" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="80" y="258" fill="#B8C5BC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
+    Building calm, production-grade products at the edge of
+  </text>
+  <text x="80" y="288" fill="#B8C5BC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
+    personal wealth software and enterprise AI infrastructure.
+  </text>
+
+  <text x="80" y="330" fill="#7A8F82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2">
+    NEW DELHI · IIIT DELHI · OPEN TO COLLABORATION
+  </text>
+</svg>
