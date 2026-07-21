@@ -24,12 +24,11 @@
 
 ### About
 
-I design and ship **product systems** — not demos. My recent work sits at two edges:
+Building AI systems that solve real-world business problems.
 
-1. **Personal wealth software** — non-custodial, India-first, privacy-aware mobile products  
-2. **Enterprise AI infrastructure** — governance, routing, and spend control for production LLM stacks  
+Focused on AI cost optimization, LLM applications, machine learning, cloud infrastructure, and scalable software engineering. Passionate about developing production-ready solutions that improve efficiency, reduce operational costs, and create measurable business impact.
 
-M.Tech. CSE, [IIIT Delhi](https://www.iiitd.ac.in/). Based in New Delhi. I care about calm interfaces, correct money semantics, and architecture that survives real users.
+Always exploring new technologies in artificial intelligence, distributed systems, and automation.
 
 <br/>
 
@@ -41,26 +40,22 @@ M.Tech. CSE, [IIIT Delhi](https://www.iiitd.ac.in/). Based in New Delhi. I care 
 <tr>
 <td width="50%" valign="top">
 
-#### SAVYA — Save Your Assets
-**Personal wealth OS · Flutter · Supabase (Mumbai)**
+#### SAVYA
+*Personal wealth OS*
 
-Non-custodial wealth product: net-worth registry, encrypted vault, quiet ledger UX, Google auth, India data residency, Play Store release pipeline.
+Non-custodial wealth product with net-worth registry, encrypted vault, quiet ledger UX, Google auth, India data residency, and Play Store release tooling.
 
-*Phase 1 Trust Core — private · Android-first · Internal testing*
-
-`Flutter` `Dart` `Supabase` `AES-GCM` `Play Console`
+Flutter · Dart · Supabase · AES-GCM
 
 </td>
 <td width="50%" valign="top">
 
 #### Aethon
-**Enterprise AI cost platform · TypeScript · FastAPI**
+*Enterprise AI cost platform*
 
-Intelligent model routing, waste detection, budget governance, and analytics to cut AI spend **20–60%** without breaking product velocity.
+Intelligent model routing, waste detection, budget governance, and analytics designed to reduce AI spend by 20 to 60% without slowing product teams.
 
-*Private product platform*
-
-`Next.js` `TypeScript` `FastAPI` `ClickHouse` `AI Gateway`
+Next.js · TypeScript · FastAPI · ClickHouse
 
 </td>
 </tr>
@@ -68,25 +63,23 @@ Intelligent model routing, waste detection, budget governance, and analytics to 
 <td width="50%" valign="top">
 
 #### HireEdge AI
-**Hiring intelligence · JS / Python**
+*Hiring intelligence*
 
-AI-assisted hiring workflows — screening signal, structured evaluation, and recruiter-facing tooling built for speed and clarity.
+AI-assisted hiring workflows for screening signal, structured evaluation, and recruiter-facing tooling built for speed and clarity.
 
-*Private*
-
-`JavaScript` `Python` `LLM workflows`
+JavaScript · Python · LLM workflows
 
 </td>
 <td width="50%" valign="top">
 
-#### AVR — Audio-Visual Humor Detection
-**Research · Interspeech 2024 · Multimodal ML**
+#### AVR
+*Audio-visual humor detection · Interspeech 2024*
 
-Foundation-model fusion (AST + VideoMAE) for audio-visual humor understanding. Demonstration track at Interspeech 2024.
+Foundation-model fusion (AST and VideoMAE) for multimodal humor understanding. Demonstration track at Interspeech 2024.
 
-[Paper (arXiv)](https://arxiv.org/abs/2406.10448v1) · [Code](https://github.com/MT23083/Multimodal_AVR)
+[Paper](https://arxiv.org/abs/2406.10448v1) &nbsp;|&nbsp; [Code](https://github.com/MT23083/Multimodal_AVR)
 
-`PyTorch` `TensorFlow` `AST` `VideoMAE` `Multimodal`
+PyTorch · TensorFlow · Multimodal ML
 
 </td>
 </tr>
